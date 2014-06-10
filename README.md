@@ -22,7 +22,7 @@
    
    The company title.
 3. **Description**
-   A short impartial description of the company. Should not exceed 200 words in length.
+   A company description. Should not exceed 200 words in length.
    
    *Visionmobile retains the right to change the description (for editorial purposes or SEO).*4. **Crunchbase URL**   The URL to the company page on [CrunchBase](http://www.crunchbase.com/) (if any).
 5. **Twitter URL**   The URL to the company page on [Twitter](https://twitter.com/) (if any).
