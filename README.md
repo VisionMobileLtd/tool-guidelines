@@ -1,4 +1,4 @@
-## DeveloperEconomics.com Tool Submission Guidelines
+## DE.com Tool Submission Guidelines
 
 In order to submit your tool or service to DeveloperEconomics.com, please provide the following information on your company and product.
 
