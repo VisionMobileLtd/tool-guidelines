@@ -1,8 +1,8 @@
 ## DE.com Tool Submission Guidelines
 
-In order to submit your tool or service to DeveloperEconomics.com, please provide the following information on your company and product.
+Please provide the following information to submit your tool or service to DeveloperEconomics.com.
 
-#### Product
+#### Product info
 
 * `Logo` your product logo in high quality format (preferably eps)
 * `Title` your product title
@@ -12,7 +12,7 @@ In order to submit your tool or service to DeveloperEconomics.com, please provid
 * `StackOverflow Question Tag` the associated question tag on [StackOverflow](http://stackoverflow.com/) (optional)
 * `Github URL` a link to your product page on [Github](https://github.com/) (optional)
 
-#### Company
+#### Company info
 
 * `Logo` your company logo in high quality format (preferably eps)
 * `Name` your company name
