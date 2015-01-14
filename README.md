@@ -1,30 +1,27 @@
-## Requirements#### Product info1. **Logo**
+## DeveloperEconomics.com Tool Submission Guidelines
 
-   The product logo in high quality format - preferably EPS.
+In order to submit your tool or service to DeveloperEconomics.com, please provide the following information on your company and product.
 
-2. **Title**
-   
-   The product title.
-3. **Description**
-   A short impartial description of the product. Should not exceed 200 words in length.
-   
-   *Visionmobile retains the right to change the description (for editorial purposes or SEO).*4. **Crunchbase URL**   The URL to the product page on [CrunchBase](http://www.crunchbase.com/) (if any).
-5. **Twitter URL**   The URL to the product page on [Twitter](https://twitter.com/) (if any).   
+#### Product
 
-6. **Stackoverflow Question Tag**   The associated question tag on [StackOverflow](http://stackoverflow.com/) (if any).   
+* `Logo` your product logo in high quality format (preferably eps)
+* `Title` your product title
+* `Description` a short impartial description of your product; must not exceed 200 words in length
+* `Crunchbase URL` a link to your product page on [CrunchBase](http://www.crunchbase.com/) (optional)
+* `Twitter URL` a link to your product page on [Twitter](https://twitter.com/) (optional)
+* `StackOverflow Question Tag` the associated question tag on [StackOverflow](http://stackoverflow.com/) (optional)
+* `Github URL` a link to your product page on [Github](https://github.com/) (optional)
 
-7. **Github URL**   The URL to the product page on [Github](https://github.com/) (if any).
-#### Company info1. **Logo**
+#### Company
 
-   The company logo in high quality format - preferably EPS.
+* `Logo` your company logo in high quality format (preferably eps)
+* `Name` your company name
+* `Description` a short company description; must not exceed 200 words in length
+* `Website URL` a link to your website
+* `Crunchbase URL` a link to your company page on [CrunchBase](http://www.crunchbase.com/) (optional)
+* `Twitter URL` a link to your company page on [Twitter](https://twitter.com/) (optional)
 
-2. **Title**
-   
-   The company title.
-3. **Description**
-   A company description. Should not exceed 200 words in length.
-   
-   *Visionmobile retains the right to change the description (for editorial purposes or SEO).*4. **Crunchbase URL**   The URL to the company page on [CrunchBase](http://www.crunchbase.com/) (if any).
-5. **Twitter URL**   The URL to the company page on [Twitter](https://twitter.com/) (if any).
-## Submission
-Submit the product and company info via email to **tools-at-developereconomics.com**.
+#### Notes
+
+* Visionmobile retains the right to change the data provided;
+* The more information you provide the better your profile on DeveloperEconomics.com.
